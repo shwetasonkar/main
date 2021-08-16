@@ -1,4 +1,4 @@
-<!doctype html><html><head><style type="text/css" id="dcoder_stylesheet">@property --rotate {
+<style type="text/css" id="dcoder_stylesheet">@property --rotate {
   syntax: "<angle>";
   initial-value: 132deg;
   inherits: false;
@@ -88,10 +88,4 @@ body {
   100% {
     --rotate: 360deg;
   }
-}</style></head> 
- <body> 
-  <div class="card">
-    CODEMAKER 
-  </div> 
- 
-</body></html>
+}</style>
